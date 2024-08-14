@@ -1,4 +1,4 @@
-## Todo_app 📝
+## Todo_App 📝
 
 ### Project Preview.
 
